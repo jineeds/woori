@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  background: #007bff;
+  padding: 20px;
+  color: white;
+}
+
+body {
+  font-family: "Pretendard", sans-serif;
+  color: #222;
+  background: #f9f9f9;
+}
+
+/*# sourceMappingURL=style.css.map */
